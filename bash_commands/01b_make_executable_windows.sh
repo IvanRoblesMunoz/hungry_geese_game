@@ -1,0 +1,1 @@
+pyinstaller -D -w --hidden-import=importlib --collect-all kaggle_environments --collect-all torch --collect-all pytorch hungry_geese_game.py 
