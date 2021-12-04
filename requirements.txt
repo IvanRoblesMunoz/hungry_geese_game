@@ -2,6 +2,8 @@ numpy==1.21.4
 pillow==8.4.0
 pygame==2.1.0
 pyinstaller==4.7
+kaggle-environments==1.8.12 
+requests
 
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.10.0+cpu
