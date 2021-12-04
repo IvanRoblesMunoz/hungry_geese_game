@@ -1,1 +1,3 @@
 dist_windows/*
+dist/*
+build/*
