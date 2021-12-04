@@ -2,7 +2,7 @@
 ---
 This repository contains the the models and code that I used for my submission in the hungry geese kaggle [competition](https://www.kaggle.com/c/hungry-geese). Which I ranked 20th for.
 
-I have built a pygame application that allows you to run play against two versions of my model and a hard coded agent.
+I have built a pygame application that allows you to play against two versions of my model and a hard coded agent.
 
 ## 1.Running executable in Windows
 ---
